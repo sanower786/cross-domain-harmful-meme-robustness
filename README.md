@@ -58,15 +58,11 @@ The study evaluates multiple multimodal paradigms under cross-domain settings us
 
 
 
-\---
-
 
 
 \## Repository Structure
 
 
-
-```text
 
 cross-domain-harmful-meme-robustness
 
@@ -122,8 +118,6 @@ Please refer to `data/dataset\_instructions.md` for dataset preparation.
 
 
 
-\---
-
 
 
 \## Evaluation Metrics
@@ -151,8 +145,6 @@ The following metrics are reported:
 \* Cross-domain Robustness Analysis
 
 
-
-\---
 
 
 
