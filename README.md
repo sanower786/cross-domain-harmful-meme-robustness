@@ -100,9 +100,9 @@ cross-domain-harmful-meme-robustness
 
 &#x20;   ├── figures
 
-&#x20;   ├── tables
+&#x20;   
 
-&#x20;   └── qualitative\_failures
+&#x20;  
 
 \## Datasets
 
